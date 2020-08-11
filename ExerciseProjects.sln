@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PythagorasCalculator", "Pyt
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Havel-Hakimi Algorithm", "Havel-Hakimi Algorithm\Havel-Hakimi Algorithm.csproj", "{27A98BF3-5171-477C-A6F5-B6B95EBEBB74}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Electronics Playground", "Electronics Playground\Electronics Playground.csproj", "{29E5E25A-B528-4708-BF59-E8E481F66518}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{27A98BF3-5171-477C-A6F5-B6B95EBEBB74}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{27A98BF3-5171-477C-A6F5-B6B95EBEBB74}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{27A98BF3-5171-477C-A6F5-B6B95EBEBB74}.Release|Any CPU.Build.0 = Release|Any CPU
+		{29E5E25A-B528-4708-BF59-E8E481F66518}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29E5E25A-B528-4708-BF59-E8E481F66518}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29E5E25A-B528-4708-BF59-E8E481F66518}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29E5E25A-B528-4708-BF59-E8E481F66518}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
